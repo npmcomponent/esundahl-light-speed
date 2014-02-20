@@ -1,0 +1,11 @@
+{
+  "name": "esundahl-light-speed",
+  "description": "lightspeed animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-light-speed-in": "git://github.com/npmcomponent/esundahl-light-speed-in.git",
+    "esundahl-light-speed-out": "git://github.com/npmcomponent/esundahl-light-speed-out.git"
+  },
+  "license": "MIT"
+}
